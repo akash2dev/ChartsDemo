@@ -148,7 +148,7 @@ export class HomePage {
             documentSize: "A4",
             landscape: "portrait",
             type: 'share',
-            fileName: 'newfile.pdf'
+            fileName: 'newfile2.pdf'
         },
             (sucess) => console.log('sucess: ', sucess),
             (error) => console.log('error:', error));
